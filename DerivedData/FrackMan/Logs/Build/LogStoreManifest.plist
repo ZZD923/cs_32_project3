@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D70862C5-1FF7-498D-B3E0-D76082CC5245</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D70862C5-1FF7-498D-B3E0-D76082CC5245.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FrackMan project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FrackMan</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build FrackMan</string>
+			<key>timeStartedRecording</key>
+			<real>571454952.96070695</real>
+			<key>timeStoppedRecording</key>
+			<real>571454955.25945795</real>
+			<key>title</key>
+			<string>Build FrackMan</string>
+			<key>uniqueIdentifier</key>
+			<string>D70862C5-1FF7-498D-B3E0-D76082CC5245</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
